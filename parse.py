@@ -23,3 +23,10 @@ for page in range(pages):
                 links.append(u[ank][uri])
 
 print(links)
+
+import urllib2
+for link in links:
+    response = urllib2.urlopen(link)
+    html = response.read()
+    with open('/Users/zhenyi/Downloads/pdf_files/submit_form_new_4.csv','wb') as file:
+        file.write(html)
