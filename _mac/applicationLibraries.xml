@@ -1,13 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 (pdfContentDownload) interpreter library">
+    <library name="Python 3.7 (pdfTblDownload) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/IdeaProjects/pdfContentDownload/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/IdeaProjects/pdfContentDownload/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/IdeaProjects/pdfContentDownload/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/1362359144" />
+        <root url="file://$USER_HOME$/IdeaProjects/pdfTblDownload/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/1328668608" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -18,10 +16,8 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/IdeaProjects/pdfContentDownload/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/IdeaProjects/pdfContentDownload/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/IdeaProjects/pdfContentDownload/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/1362359144" />
+        <root url="file://$USER_HOME$/IdeaProjects/pdfTblDownload/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/1328668608" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
